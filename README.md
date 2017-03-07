@@ -1,6 +1,6 @@
 # awesome links
 
-# embedded system
+## Embedded System
 
 * [emcu.it](http://www.emcu.it/)
   - In this site you find: Electronics, Microcontrollers, ARM, CORTEX, Power Line Modem, Accelerometers, Digital Compasses, Gyroscopes, WiFi Modules, Bluetooth Modules, WireLess, Metering, Solar Applications, RFID, STM8, STM32, STM32 and STM8 MCU Longevity Commitment, Wireless M-BUS (WMBUS), STR9, Ubuntu, Linux and Free Software
@@ -8,7 +8,7 @@
 * [Computer Structures with the ARM Cortex-M0](http://www.cs.indiana.edu/~geobrown/c335book.pdf)
 * [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf)
   
-# researchers' home pages
+## Researchers' Homepages
 
 * [Geoffrey Brown](http://homes.soic.indiana.edu/geobrown/)
   - Professor of Computer Science, School of Informatics and Computing, Indiana University
