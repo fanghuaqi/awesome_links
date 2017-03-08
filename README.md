@@ -14,3 +14,9 @@
   - Professor of Computer Science, School of Informatics and Computing, Indiana University
   - During my academic and industrial career I have worked on research problems as diverse as the theory of concurrent and distributed systems, the design and implementation of a commercially successful VLIW processor, and the creation of an effective internet measurement system. Broadly, my research has always focused upon the design and implementation of complex digital systems -- I am interested both in the theoretical foundations of correct design and in building practical systems. I have two currently funded research projects -- one to develop secure processor emulation platforms for digital preservation, an area I have pursued for the past decade, and the other a recent project to develop novel sensor tags for monitoring the activity and location of small songbirds.
   
+## Git Related
+
+* [Most commonly used git tips and tricks](https://github.com/git-tips/tips)
+* [git tips chinese version](https://github.com/521xueweihan/git-tips)
+* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+* [Git recipes in Chinese. 高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
