@@ -20,3 +20,13 @@
 * [git tips chinese version](https://github.com/521xueweihan/git-tips)
 * [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * [Git recipes in Chinese. 高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+
+## FPGA Projects
+
+* [RISC-V](https://riscv.org/)
+* [LowRISC](http://www.lowrisc.org/)
+* [RISC-V / MIPS retargetable CPU core](https://github.com/f32c)
+* [PULP - An Open Parallel Ultra-Low-Power Processing-Platform](https://github.com/pulp-platform)
+* [Tools for exploring the open side of the FPGAs](https://github.com/FPGAwars)
+* [FPGA Arduino](https://github.com/search?q=fpga+arduino&ref=searchresults&type=Repositories&utf8=%E2%9C%93)
+* [OpenFPGAduino](https://github.com/OpenFPGAduino)
